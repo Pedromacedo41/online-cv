@@ -10,10 +10,10 @@
     {%for section in tecnologies %}
     <li>
       {{ section.type }}
-      <br>
+      
       {%for child in section.childs %}
+        <span class="lang-desc"> - {{ child.name }}</span>
         <br>
-        <span class="lang-desc">{{ child.name }}</span>
       {% endfor %}
     </li>
     {% endfor %}
