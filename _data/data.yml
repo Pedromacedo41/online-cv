@@ -48,8 +48,23 @@ sidebar:
         - name: Jupyer, Colab
         - name: Pytorch, TensorFlow
         - name: Sklearn, Pandas, Scipy
-      
-
+        
+      - type: Web technologies
+      - childs:
+        - name: Django
+        - name: React, Redux
+        - name: Shiny applications (R)
+        - name: Nodejs, Express
+        - name: WebRTC
+        - name: Angular7
+        
+      - type: Cloud and Storage
+      - childs:
+        - name: SQL postgres
+        - name: MongoDB
+        - name: Google Cloud (GCP)
+        - name: Docker
+        - name: Spark
 
 
 career-profile:
