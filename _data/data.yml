@@ -122,7 +122,7 @@ projects:
     intro: 
     assignments:
       - title: Real time deep learning video analysis
-        link: ""
+        link: aaaa
         tagline: R Shiny application using python frame-based model api
         time: 08/2020
 
@@ -136,7 +136,7 @@ projects:
         tagline: Image colorization using VGG CNNs
         time: 02/2020
 
-      - title: Time Series Forecastin
+      - title: Time Series Forecasting
         link: ""
         tagline: Statiscal Anlysis and data forecasting using RNN/ LSTM
         time: 12/2019
