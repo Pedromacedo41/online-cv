@@ -74,8 +74,8 @@ career-profile:
       - Looking for exciting full-time opportunities and interesting projects in AI and Deep Learning (**end of studies internship**, starting from **April/2021**)
       - Part time developer at [Muvraline France](https://muvraline.fr/en/)
 education:
-    - degree: MSc in Applied Mathematics, Data Science
-      university: Pierre and Marie Curie University (UPMC)
+    - degree: Pierre and Marie Curie University (UPMC)
+      university:  MSc in Applied Mathematics (M2, Data Science)
       time: 2020 - 2021
       details: |
         **Program:** [*M2 Mathématiques : Apprentissage et Algorithmes*](https://m2a.lip6.fr/)
@@ -84,8 +84,8 @@ education:
 
         Coursework includes: Statistical Learning, Machine Learning, Optimization, Reinforcement and Deep Learning.
 
-    - degree: MSc in Applied Mathematics, Data Science  
-      university: École polytechnique
+    - degree: École polytechnique
+      university: MSc in Applied Mathematics, (M1, Data Science)
       time: 2018 - 2021
       details: |
         **Program:** [*Ingénieur polytechnicien*](https://programmes.polytechnique.edu/cycle-ingenieur-polytechnicien/cycle-ingenieur-polytechnicien) 
@@ -96,7 +96,7 @@ education:
 
         - 2019-2020: Unsupervised Learning, Deep Learning, Data Visualization, Database Systems, Artificial Intelligencet
     - degree: Instituto Militar de Engenharia
-      university: École polytechnique
+      university: Bachelor's degree, Computer Engineering
       time: 2015 - 2017
       details: |
           3 first years of 5 in one of the best ranked engineering schools in Brazil - **Transferred to École Polytechnique**
