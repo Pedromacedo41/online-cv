@@ -97,7 +97,7 @@ education:
       university: Bachelor's degree, Computer Engineering
       time: 2015 - 2017, Rio de Janeiro
       details: |
-          3 first years of 5 in one of the best ranked engineering schools in Brazil - **Transferred to École Polytechnique**
+          3 first years of 5 in one of the [best ranked engineering schools in Brazil](http://www.ime.eb.mil.br/en/) - **Transferred to École Polytechnique**
 
           Coursework includes: Data Structures, Programming Languages: C++ and Java, Relational Databases, Signal Analysis
 
@@ -119,13 +119,14 @@ experiences:
           - Bullet point
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     assignments:
       - title: Real time deep learning video analysis
         link: ""
-        tagline: "R Shiny application using python frame-based model api"
+        tagline: R Shiny application using python frame-based model api
+
+      - title: Solving scape game using Reinforcement Learning
+        link: ""
+        tagline: Q-learning, Deep Q-learning and Policy Optimization
 
 
