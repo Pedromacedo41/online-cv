@@ -35,12 +35,20 @@ sidebar:
         level: Native
 
     interests:
-      - item: C, C++, Java, Python, R, Javascript, octave
+      - item: C, C++, Java, Python, R, Javascript, Typescript, Octave
         link:
 
     platforms:
       - item: Windows, Linux, Web
         link: 
+
+    tecnologies:
+      - type: (Machine Learning)
+      - childs:
+        - name: Jupyer, Colab
+        - name: Pytorch, TensorFlow
+        - name: Sklearn, Pandas, Scipy
+      
 
 
 

@@ -1,0 +1,23 @@
+{% assign tecnologies = site.data.data.sidebar.tecnologies %}
+{% if tecnologies %}
+<div class="languages-container container-block">
+
+  <h2 class="container-block-title">
+    Technologies
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {%for section in tecnologies %}
+    <li>
+      {{ section.type }}
+      <br>
+      {%for child in section %}
+        <br>
+        <span class="lang-desc">{{ child.name }}</span>
+      {% endfor %}
+    </li>
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}
