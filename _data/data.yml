@@ -43,7 +43,7 @@ sidebar:
         link: 
 
     tecnologies:
-      - type: (Machine Learning)
+      - type: Machine Learning
       - childs:
         - name: Jupyer, Colab
         - name: Pytorch, TensorFlow

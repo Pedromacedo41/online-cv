@@ -11,7 +11,7 @@
     <li>
       {{ section.type }}
       <br>
-      {%for child in section %}
+      {%for child in section.childs %}
         <br>
         <span class="lang-desc">{{ child.name }}</span>
       {% endfor %}
