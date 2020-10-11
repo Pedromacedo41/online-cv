@@ -68,14 +68,11 @@ sidebar:
 
 
 career-profile:
-    title: Career Profile
+    title: About
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      - Pursuing Master's Degree (M2) in Data Science at Sorbonne Université
+      - Part time developer at Muvraline France (1 day/ week)
+      - Looking for exciting full-time opportunities and interesting projects in AI and Deep Learning.
 education:
     - degree: MSc in Computer Science
       university: École polytechnique
