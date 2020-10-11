@@ -38,7 +38,10 @@ sidebar:
       - item: C, C++, Java, Python, R, Javascript, octave
         link:
 
-      - item: Java, Python
+      - item: Java
+        link:
+
+      - item: Python
         link:
 
 
