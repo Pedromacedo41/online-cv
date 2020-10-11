@@ -35,14 +35,8 @@ sidebar:
         level: Native
 
     interests:
-      - item: C, C++
-        link:
-
-      - item: Java, Python
-        link:
-
-      - item: Cooking
-        link:
+      - item: C, C++, Java, Python, R, Javascript, octave
+        link: http://ssss.com
 
 career-profile:
     title: Career Profile
