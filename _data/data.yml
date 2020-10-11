@@ -76,17 +76,15 @@ career-profile:
 education:
     - degree: Pierre and Marie Curie University (UPMC)
       university:  MSc in Applied Mathematics (M2, Data Science)
-      time: 2020 - 2021
+      time: 2020 - 2021, Paris, France
       details: |
         Program: [*M2 Mathématiques : Apprentissage et Algorithmes*](https://m2a.lip6.fr/)
-
-     
 
         Coursework includes: Statistical Learning, Machine Learning, Optimization, Reinforcement and Deep Learning.
 
     - degree: École polytechnique
       university: MSc in Applied Mathematics (M1, Data Science)
-      time: 2018 - 2021
+      time: 2018 - 2021, Paris, France
       details: |
         Program: [*Ingénieur polytechnicien*](https://programmes.polytechnique.edu/cycle-ingenieur-polytechnicien/cycle-ingenieur-polytechnicien) 
 
@@ -97,7 +95,7 @@ education:
         - 2019-2020: Unsupervised Learning, Deep Learning, Data Visualization, Database Systems, Artificial Intelligence
     - degree: Instituto Militar de Engenharia
       university: Bachelor's degree, Computer Engineering
-      time: 2015 - 2017
+      time: 2015 - 2017, Rio de Janeiro, Brazil
       details: |
           3 first years of 5 in one of the best ranked engineering schools in Brazil - **Transferred to École Polytechnique**
 
@@ -119,28 +117,6 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
 projects:
     title: Projects
     intro: >
@@ -148,23 +124,8 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Real time deep learning video analysis
+        link: ""
+        tagline: "R Shiny application using python frame-based model api"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
