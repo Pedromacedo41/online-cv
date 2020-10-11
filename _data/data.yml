@@ -25,10 +25,10 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Intermediate (TOEFL 89/120 11/2017)
+        level: Intermediate, TOEFL 89/120, 11/2017
 
       - idiom: French
-        level: Advanced (TCF C1 level, 02/2019)
+        level: Advanced, TCF C1 level, 02/2019
 
       - idiom: Portuguese
         level: Native
@@ -54,7 +54,7 @@ career-profile:
       Second paragraph if required.
 education:
     - degree: MSc in Computer Science
-      university: University of London
+      university: École polytechnique
       time: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
