@@ -131,4 +131,14 @@ projects:
         tagline: Q-learning, Deep Q-learning and Policy Optimization
         time: 03/2020
 
+      - title: Image Colorization
+        link: ""
+        tagline: Image colorization using VGG CNNs
+        time: 02/2020
+
+      - title: Time Series Forecastin
+        link: ""
+        tagline: Statiscal Anlysis and data forecasting using RNN/ LSTM
+        time: 12/2019
+
 
