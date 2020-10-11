@@ -75,13 +75,18 @@ career-profile:
       - Part time developer at [Muvraline France](https://muvraline.fr/en/)
 education:
     - degree: MSc in Applied Mathematics (Data Science)
-      university: Pierre and Marie Curie University (UPMC)
-      link: https://www.sorbonne-universite.fr/offre-de-formation/choisir-sa-formation/formation-initiale/sciences-et-ingenierie
+      university: |
+        [Pierre and Marie Curie University (UPMC)](https://www.sorbonne-universite.fr/offre-de-formation/choisir-sa-formation/formation-initiale/sciences-et-ingenierie)
       time: 09/2020 - 09/2021
       details: |
         Preparing diploma of Master of Sciences, M2, Data Science
+
+
         [M2 Mathématiques : Apprentissage et Algorithmes](https://m2a.lip6.fr/)
-        Coursework includes: Statistical Learning, Machine Learning, Optimization, Reinforcement and Deep Learning. t
+
+
+        Coursework includes: Statistical Learning, Machine Learning, Optimization, Reinforcement and Deep Learning.
+
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
