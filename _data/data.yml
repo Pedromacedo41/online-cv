@@ -38,11 +38,10 @@ sidebar:
       - item: C, C++, Java, Python, R, Javascript, octave
         link:
 
-      - item: Java
-        link:
+    platforms:
+      - item: Windows, Linux, Web
+        link: 
 
-      - item: Python
-        link:
 
 
 career-profile:
