@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Pedro Macedo
-    tagline: Data Scientist Student
+    tagline: Data Scientist Master Student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -70,7 +70,7 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      - Pursuing Master's Degree (M2) in Data Science at Sorbonne Université
+      - Pursuing Master's Degree (M2) in Data Science at [Sorbonne Université](https://www.sorbonne-universite.fr/)
       - Part time developer at [Muvraline France](https://muvraline.fr/en/)
       - Looking for exciting full-time opportunities and interesting projects in AI and Deep Learning.
 education:
