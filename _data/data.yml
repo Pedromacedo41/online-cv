@@ -70,7 +70,7 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      - Pursuing Master's Degree (M2) in Data Science at [Sorbonne Unniversité](https://www.sorbonne-universite.fr/)
+      - Pursuing Master's Degree (M2) in Data Science
       - Looking for exciting full-time opportunities and interesting projects in AI and Deep Learning (**end of studies internship**, starting from **April/2021**)
       - Part time developer at [Muvraline France](https://muvraline.fr/en/)
 education:
@@ -81,20 +81,18 @@ education:
         Preparing diploma of Master of Sciences, M2, Data Science
 
         **Program:** [*M2 Mathématiques : Apprentissage et Algorithmes*](https://m2a.lip6.fr/)
-
         **Coursework includes:** Statistical Learning, Machine Learning, Optimization, Reinforcement and Deep Learning.
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: MSc in Applied Mathematics (M1, Data Science)
+      university: École polytechnique
+      time: 2018 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        **Program:** [*Ingénieur polytechnicien*](https://programmes.polytechnique.edu/cycle-ingenieur-polytechnicien/cycle-ingenieur-polytechnicien) 
+        **Coursework includes:**
+
+        - **2018-2019:** Probability, Numerical Analysis and Optimization, Algorithms for Data Analysis in C++, Algorithm Design, Fundamentals of Computer Science (Logic, Models, Computing)
+
+        - **2019-2020:** Unsupervised Learning, Deep Learning, Data Visualization, Database Systems, Artificial Intelligencet
 experiences:
     - role: Lead Developer
       time: 2015 - Present
