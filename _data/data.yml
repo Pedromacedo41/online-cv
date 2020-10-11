@@ -76,7 +76,7 @@ career-profile:
 education:
     - degree: Pierre and Marie Curie University (UPMC)
       university:  MSc in Applied Mathematics (M2, Data Science)
-      time: 2020 - 2021, Paris, France
+      time: 2020 - 2021, Paris
       details: |
         Program: [*M2 Mathématiques : Apprentissage et Algorithmes*](https://m2a.lip6.fr/)
 
@@ -84,7 +84,7 @@ education:
 
     - degree: École polytechnique
       university: MSc in Applied Mathematics (M1, Data Science)
-      time: 2018 - 2021, Paris, France
+      time: 2018 - 2021, Paris
       details: |
         Program: [*Ingénieur polytechnicien*](https://programmes.polytechnique.edu/cycle-ingenieur-polytechnicien/cycle-ingenieur-polytechnicien) 
 
@@ -95,7 +95,7 @@ education:
         - 2019-2020: Unsupervised Learning, Deep Learning, Data Visualization, Database Systems, Artificial Intelligence
     - degree: Instituto Militar de Engenharia
       university: Bachelor's degree, Computer Engineering
-      time: 2015 - 2017, Rio de Janeiro, Brazil
+      time: 2015 - 2017, Rio de Janeiro
       details: |
           3 first years of 5 in one of the best ranked engineering schools in Brazil - **Transferred to École Polytechnique**
 
