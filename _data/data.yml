@@ -36,7 +36,11 @@ sidebar:
 
     interests:
       - item: C, C++, Java, Python, R, Javascript, octave
-        link: http://ssss.com
+        link:
+
+      - item: Java, Python
+        link:
+
 
 career-profile:
     title: Career Profile
