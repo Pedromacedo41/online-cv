@@ -124,9 +124,11 @@ projects:
       - title: Real time deep learning video analysis
         link: ""
         tagline: R Shiny application using python frame-based model api
+        time: 08/2020
 
       - title: Solving scape game using Reinforcement Learning
         link: ""
         tagline: Q-learning, Deep Q-learning and Policy Optimization
+        time: 03/2020
 
 
