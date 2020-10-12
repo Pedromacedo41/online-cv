@@ -106,11 +106,29 @@ experiences:
     - role: Muvraline France
       time: 2019 - 2020, Paris
       company: 
+      subroles:
+        - child:
+          - role: Research Intern
+          - time: 03/2020 - 08/2020
+          - details: |
+               Facial recognition and facial alignment models, deep learning real-time analysis, multi-stream applications
+        - child:
+          - role: Computer Engineering
+          - time: 08/2019 - 03/2020
+          - details: |
+             Speaker Recognition (Audio).
+        - child:
+          - role: Research Intern
+          - time: 06/2019 - 08/2019
+          - details: |
+              Human voice sentimental analysis and emotions classification.
+        - child:
+          - role: Software Developer
+          - time: 03/2019 - 06/2019
+          - details: |
+
       details: |
-       - **Research Intern:** Facial recognition and facial alignment models, deep learning real-time analysis, multi-stream applications.
-       - **Computer Engineer:** Speaker Recognition (Audio).
-       - **Research Intern:** Human voice sentimental analysis and emotions classification.
-       - **Software Developer:** Human voice sentimental analysis and emotions classification.
+
 
     - role: Scientific Initiation in Physics
       time: 08/2017 - 01/2018, Rio de Janeiro
