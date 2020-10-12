@@ -23,26 +23,25 @@
 
     </div><!--//meta-->
 
-    {% if experience.subroles %}
-      {% for subrole in experience.subroles %}
-        <div class="meta">
-            <div class="upper-row">
-              <h3 class="job-title">{{ subrole.child.role }}</h3>
-              <div class="time">{{ subrole.child.time }}</div>
-            </div><!--//upper-row-->
+   
+    {% for subrole in experience.subroles %}
+      <div class="meta">
+          <div class="upper-row">
+            <h3 class="job-title">{{ subrole.child.role }}</h3>
+            <div class="time">{{ subrole.child.time }}</div>
+          </div><!--//upper-row-->
 
-            <div class="company">{{ subrole.child.company }}</div>
+          <div class="company">{{ subrole.child.company }}</div>
 
-        </div><!--//meta-->
+      </div><!--//meta-->
 
-        {% if subrole.child.details %}
-            <div class="details">
-              {{ subrole.child.details | markdownify }}
-            </div><!--//details-->
-        {% endif %}
-        
-      {% endfor %}
-    {% endif %}
+      {% if subrole.child.details %}
+          <div class="details">
+            {{ subrole.child.details | markdownify }}
+          </div><!--//details-->
+      {% endif %}
+      
+    {% endfor %}
 
     {% if experience.details %}
     <div class="details">
