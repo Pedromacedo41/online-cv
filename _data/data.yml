@@ -97,7 +97,7 @@ education:
       university: Bachelor's degree, Computer Engineering
       time: 2015 - 2017, Rio de Janeiro
       details: |
-          3 first years of 5 in one of the [best ranked engineering schools in Brazil](http://www.ime.eb.mil.br/en/) - **Transferred to École Polytechnique**
+          3 first years of 5 in one of the best ranked engineering schools in Brazil - **Transferred to École Polytechnique**
 
           Coursework includes: Data Structures, Programming Languages: C++ and Java, Relational Databases, Signal Analysis
 
@@ -144,6 +144,7 @@ experiences:
       company: Scientific Initiation Junior Fellow
       details: |
        Olympic mathematics topics for elementary and high school students.
+
 projects:
     title: Projects
     intro: 
