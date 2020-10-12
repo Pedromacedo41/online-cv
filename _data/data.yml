@@ -102,6 +102,16 @@ education:
           Coursework includes: Data Structures, Programming Languages: C++ and Java, Relational Databases, Signal Analysis
 
 experiences:
+
+    - role: Muvraline France
+      time: 2019 - 2020, Paris
+      company: 
+      details: |
+       - **Research Intern:** Facial recognition and facial alignment models, deep learning real-time analysis, multi-stream applications.
+       - **Computer Engineer:** Speaker Recognition (Audio).
+       - **Research Intern:** Human voice sentimental analysis and emotions classification.
+       - **Software Developer:** Human voice sentimental analysis and emotions classification.
+
     - role: Scientific Initiation in Physics
       time: 08/2017 - 01/2018, Rio de Janeiro
       company: CNPq
