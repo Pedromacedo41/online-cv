@@ -124,24 +124,24 @@ experiences:
           details: |
 
       details: |
-          sos
+          sos3
 
-    - role: Scientific Initiation in Physics
+    - role: CNpq
       time: 08/2017 - 01/2018, Rio de Janeiro
-      company: CNPq
+      company: Scientific Initiation in Physics
       details: |
         [*PIBITI - Instititutional Scholarship Program*](http://cnpq.br/pibiti) 
         
         Subject: Study of the Evolution of Quantum Systems and Unitary Transforms.
 
-    - role: Brazilian Army (Exército Brasileiro)
+    - role: Brazilian Army
       time: 2015 - 2017, Rio de Janeiro
       company: Brazilian army officer program (lieutenant), CFG-IME
       details: |
 
-    - role: PICJr -  Scientific Initiation Junior Program
+    - role: CNPq 
       time: 2009 - 2013, Juiz de Fora, Brazil
-      company: CNPq 
+      company: PICJr -  Scientific Initiation Junior Program
       details: |
 projects:
     title: Projects
