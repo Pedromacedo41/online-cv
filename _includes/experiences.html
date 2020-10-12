@@ -27,13 +27,13 @@
     {% for subrole in experience.subroles %}
       <div class="meta" style="padding-left: 30px;">
           <div class="upper-row">
+            <h5 class="job-title2">{{ subrole.role }}</h5>
             <div class="time">{{ subrole.time }}</div>
           </div><!--//upper-row-->
-        </div><!--//meta-->
-        <div class="company">{{ subrole.role }}</div>
+      </div><!--//meta-->
       
       {% if subrole.details %}
-          <div class="details" style="padding-left: 40px;">
+          <div class="details" style="padding-left: 35px;">
             {{ subrole.details | markdownify }}
           </div><!--//details-->
       {% endif %}
@@ -41,7 +41,7 @@
     {% endfor %}
 
     {% if experience.details %}
-    <div class="details">
+    <div class="details" style="padding-left: 5px;">
       {{ experience.details | markdownify }}
     </div><!--//details-->
     {% endif %}
