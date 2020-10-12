@@ -76,6 +76,7 @@ career-profile:
 education:
     - degree: Pierre and Marie Curie University (UPMC)
       university:  MSc in Applied Mathematics (M2, Data Science)
+      link: https://www.sorbonne-universite.fr/
       time: 2020 - 2021, Paris
       details: |
         Program: [*M2 Mathématiques : Apprentissage et Algorithmes*](https://m2a.lip6.fr/)
@@ -85,6 +86,7 @@ education:
     - degree: École polytechnique
       university: MSc in Applied Mathematics (M1, Data Science)
       time: 2018 - 2021, Paris
+      link: https://www.polytechnique.edu/
       details: |
         Program: [*Ingénieur polytechnicien*](https://programmes.polytechnique.edu/cycle-ingenieur-polytechnicien/cycle-ingenieur-polytechnicien) 
 
@@ -96,6 +98,7 @@ education:
     - degree: Instituto Militar de Engenharia
       university: Bachelor's degree, Computer Engineering
       time: 2015 - 2017, Rio de Janeiro
+      link: www.ime.eb.mil.br/en/
       details: |
           3 first years of 5 in one of the best ranked engineering schools in Brazil - **Transferred to École Polytechnique**
 
@@ -106,6 +109,7 @@ experiences:
     - role: Muvraline France
       time: 2019 - 2020, Paris
       company: 
+      link: https://muvraline.fr/en/
       subroles:
         - role: Research Intern
           time: 03/2020 - 08/2020
@@ -122,14 +126,15 @@ experiences:
         - role: Software Developer
           time: 03/2019 - 06/2019
           details: |
-            PWA map view, using Angular7 and Ionic
+            PWA using Angular7 and Ionic
       details: |
-            test11
+            
 
 
     - role: Brazilian Army
       time: 2015 - 2017, Rio de Janeiro
       company: Brazilian army officer program (lieutenant), CFG-IME
+      link: http://www.ime.eb.mil.br/pt/
       details: |
 
 
