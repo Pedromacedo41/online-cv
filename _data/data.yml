@@ -98,7 +98,7 @@ education:
     - degree: Instituto Militar de Engenharia
       university: Bachelor's degree, Computer Engineering
       time: 2015 - 2017, Rio de Janeiro
-      link: www.ime.eb.mil.br/en/
+      link: https://www.ime.eb.mil.br/en/
       details: |
           3 first years of 5 in one of the best ranked engineering schools in Brazil - **Transferred to École Polytechnique**
 
@@ -168,46 +168,45 @@ activities:
        Olympic mathematics topics for elementary and high school students.
     
 projects:
-    title: Projects
-    intro: 
-    assignments:
-      - title: Real time deep learning video analysis
-        link: aaaa
-        tagline: R Shiny application using python frame-based model api
-        time: 08/2020
+    - role: Real time deep learning video analysis
+      link: aaaa
+      company: R Shiny application using python frame-based model api
+      time: 08/2020
 
-      - title: Solving scape game using Reinforcement Learning
-        link: ""
-        tagline: Q-learning, Deep Q-learning and Policy Optimization
-        time: 03/2020
+    - role: Solving scape game using Reinforcement Learning
+      link: ""
+      company: Q-learning, Deep Q-learning and Policy Optimization
+      time: 03/2020
 
-      - title: Image Colorization
-        link: ""
-        tagline: Image colorization using VGG CNNs
-        time: 02/2020
+    - role: Image Colorization
+      link: ""
+      company: Image colorization using VGG CNNs
+      time: 02/2020
 
-      - title: Time Series Forecasting
-        link: ""
-        tagline: Statiscal Anlysis and data forecasting using RNN/ LSTM
-        time: 12/2019
+    - role: Time Series Forecasting
+      link: ""
+      company: Statiscal Anlysis and data forecasting using RNN/ LSTM
+      time: 12/2019
 
 
-      - title: Link Prediction on the French Web
-        link: ""
-        tagline: Word embbeding methods on labeled graphs (Node2vec
-        time: 12/2019
+    - role: Link Prediction on the French Web
+      link: ""
+      company: Word embbeding methods on labeled graphs (Node2vec
+      time: 12/2019
 
 
-      - title: Logipix Puzzle - Optimized Backtracking
-        link: ""
-        tagline: Puzzle Game Solver with optimized Backtracking
-        time: 03/2019
+    - role: Logipix Puzzle - Optimized Backtracking
+      link: ""
+      company: Puzzle Game Solver with optimized Backtracking
+      time: 03/2019
 
       
-      - title: Descent Gradient for the Static Rope Problem
-        link: ""
-        tagline: Constrained optimization problem, use of complexe derivatives.
-        time: 11/2018
+    - role: Descent Gradient for the Static Rope Problem
+      link: ""
+      company: École polytechnique 
+      time: 11/2018
+      details: |
+        Constrained optimization problem, use of complexe derivatives.
 
       
 
