@@ -25,14 +25,17 @@ a {
     }
 }
 
-a .special {
-    color: darken($theme-color, 20%);
-    &:hover {
-        text-decoration: underline;
-        color: darken($theme-color, 90%);
-    }
-    &:focus {
-        text-decoration: none;
+.special {
+
+    a {
+        color: darken($theme-color, 20%);
+        &:hover {
+            text-decoration: underline;
+            color: darken($theme-color, 90%);
+        }
+        &:focus {
+            text-decoration: none;
+        }
     }
 }
 
