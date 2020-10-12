@@ -27,10 +27,10 @@
     {% for subrole in experience.subroles %}
       <div class="meta" style="padding-left: 30px;">
           <div class="upper-row">
-            <h5 class="job-title">{{ subrole.role }}</h5>
             <div class="time">{{ subrole.time }}</div>
           </div><!--//upper-row-->
-      </div><!--//meta-->
+        </div><!--//meta-->
+        <div class="company">{{ subrole.role }}</div>
       
       {% if subrole.details %}
           <div class="details" style="padding-left: 40px;">
