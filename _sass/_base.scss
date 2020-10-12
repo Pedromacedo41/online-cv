@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6  {
 }
 
 a {
-    color: darken($theme-color, 90%);
+    color: darken($theme-color, 40%);
     text-decoration: underline;
     &:hover {
         text-decoration: underline;
@@ -190,7 +190,7 @@ p {
     } 
     
     .job-title2 {
-        //color: $text-grey;
+        color: $text-grey;
         font-size: 14px;
         margin-top: 0;
         margin-bottom: 0;

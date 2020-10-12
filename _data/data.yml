@@ -124,11 +124,11 @@ experiences:
           details: |
 
       details: |
-          sos6
+          
 
-    - role: CNpq
+    - role: CNpq - PIBIT
       time: 08/2017 - 01/2018, Rio de Janeiro
-      company: Scientific Initiation in Physics
+      company: Scientific Initiation Fellow in Physics
       details: |
         [*PIBITI - Instititutional Scholarship Program*](http://cnpq.br/pibiti) 
         
@@ -139,10 +139,11 @@ experiences:
       company: Brazilian army officer program (lieutenant), CFG-IME
       details: |
 
-    - role: CNPq 
+    - role: CNPq - PICJr
       time: 2009 - 2013, Juiz de Fora, Brazil
-      company: PICJr -  Scientific Initiation Junior Program
+      company: Scientific Initiation Junior Fellow
       details: |
+       Olympic mathematics topics for elementary and high school students.
 projects:
     title: Projects
     intro: 
