@@ -136,6 +136,13 @@ experiences:
 
 
 activities:
+
+    - role: Collective Scientific Project – PSC
+      time: 08/2018- 02/2019, Palaiseau, France
+      company: École polytechnique
+      details: |
+       Competitive computer programming classes (5h/ week)
+
     - role: CNPq - PIBIT
       time: 08/2017 - 01/2018, Rio de Janeiro
       company: Scientific Initiation Fellow in Physics
@@ -143,6 +150,12 @@ activities:
         [*PIBITI - Instititutional Scholarship Program*](http://cnpq.br/pibiti) 
         
         Subject: Study of the Evolution of Quantum Systems and Unitary Transforms.
+
+    - role: IME++
+      time: 02/2015 - 06/2015, Rio de Janeiro
+      company: Instituto Militar de Engenharia
+      details: |
+       Olympic mathematics topics for elementary and high school students.
 
     - role: CNPq - PICJr
       time: 2009 - 2013, Juiz de Fora, Brazil
