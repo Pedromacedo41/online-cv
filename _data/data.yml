@@ -122,9 +122,9 @@ experiences:
         - role: Software Developer
           time: 03/2019 - 06/2019
           details: |
-            PWA map app, using Angular7 and Ionic
+            PWA map view, using Angular7 and Ionic
       details: |
-            test7
+            test8
 
 
     - role: Brazilian Army
