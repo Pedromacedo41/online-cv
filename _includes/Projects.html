@@ -6,16 +6,16 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
     </span>
-    Work Experience
+    Projects
   </h2>
 
   {% for experience in experiences %}
-  <div class="item">
+  <div class="item" style="margin-bottom: 5px;">
 
     <div class="meta">
 
       <div class="upper-row">
-        <div class="job-title"><a href="{{ experience.link }}" style="text-decoration: none;">{{ experience.role }}</a></div>
+        <div class="job-title"><a href="{{ experience.link }}" style="text-decoration: underline;">{{ experience.role }}</a></div>
         <div class="time">{{ experience.time }}</div>
       </div><!--//upper-row-->
 
