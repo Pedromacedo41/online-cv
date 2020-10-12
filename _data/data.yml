@@ -169,40 +169,50 @@ activities:
     
 projects:
     - role: Real time deep learning video analysis
-      link: aaaa
-      company: R Shiny application using python frame-based model api
+      link: "#"
+      company: Muvraline France
       time: 08/2020
+      details: |
+         R Shiny application using python frame-based model api
 
     - role: Solving scape game using Reinforcement Learning
-      link: ""
-      company: Q-learning, Deep Q-learning and Policy Optimization
+      link: https://github.com/Pedromacedo41/AIGymRL
+      company: École polytechnique 
       time: 03/2020
+      details: |
+        Q-learning, Deep Q-learning and Policy Optimization
 
     - role: Image Colorization
-      link: ""
-      company: Image colorization using VGG CNNs
+      link: https://github.com/Pedromacedo41/DLimage_colorization
+      company: École polytechnique 
       time: 02/2020
+      details: |
+         Image colorization using VGG CNNs
 
     - role: Time Series Forecasting
-      link: ""
-      company: Statiscal Anlysis and data forecasting using RNN/ LSTM
+      link: https://github.com/Pedromacedo41/MAP573
+      company: École polytechnique 
       time: 12/2019
-
+      details: |
+       Statiscal Anlysis and data forecasting using RNN/ LSTM
 
     - role: Link Prediction on the French Web
-      link: ""
-      company: Word embbeding methods on labeled graphs (Node2vec
+      link: https://github.com/luizbezerra-pinheiro/LinkPrediction
+      company: École polytechnique 
       time: 12/2019
-
+      details: |
+       Word embbeding methods on labeled graphs (Node2vec)
 
     - role: Logipix Puzzle - Optimized Backtracking
-      link: ""
-      company: Puzzle Game Solver with optimized Backtracking
+      link: https://github.com/Pedromacedo41/Logipix
+      company: École polytechnique
       time: 03/2019
+      details: |
+        Puzzle Game Solver with optimized Backtracking
 
       
     - role: Descent Gradient for the Static Rope Problem
-      link: ""
+      link: "#"
       company: École polytechnique 
       time: 11/2018
       details: |
